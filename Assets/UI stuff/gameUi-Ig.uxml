@@ -1,0 +1,9 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:VisualElement name="VisualElement" style="flex-grow: 1; background-color: rgba(0, 0, 0, 0); align-items: center; justify-content: center; opacity: 1;">
+        <ui:VisualElement style="flex-grow: initial; background-color: rgb(255, 255, 255); flex-shrink: initial; height: 253px; width: 223px; justify-content: center; align-items: center; border-top-left-radius: 25px; border-bottom-left-radius: 25px; border-top-right-radius: 25px; border-bottom-right-radius: 25px; opacity: 1;">
+            <ui:VisualElement style="flex-grow: 1; background-color: rgb(109, 13, 255); width: 95px; height: 36px; position: absolute; top: 20px; left: 82px; display: none;" />
+            <ui:Label tabindex="-1" text="Star Trek" display-tooltip-when-elided="true" style="position: absolute; top: 20px; background-color: rgba(255, 255, 255, 0);" />
+            <ui:Button text="Start Game" display-tooltip-when-elided="true" style="height: 40px; width: 91px; border-left-color: rgb(0, 0, 0); border-right-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); border-bottom-color: rgb(0, 0, 0); border-left-width: 3px; border-right-width: 3px; border-top-width: 3px; border-bottom-width: 3px; border-top-right-radius: 10px; border-bottom-left-radius: 10px; background-color: rgb(200, 0, 0); transition-property: all; transition-duration: 0s; transition-timing-function: ease; transition-delay: 0s; overflow: hidden; visibility: visible; display: flex; opacity: 1; position: relative; top: auto;" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>
